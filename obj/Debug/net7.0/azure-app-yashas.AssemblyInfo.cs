@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-yashas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0625ce2f2910aba4837b13c5d42815fe14264b74")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-yashas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-yashas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
