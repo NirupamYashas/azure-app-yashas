@@ -1,0 +1,12 @@
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/azure-app-yashas
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/publish/web.config
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/appsettings.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/publish/appsettings.Development.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/publish/appsettings.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/publish/azure-app-yashas.deps.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/publish/azure-app-yashas.runtimeconfig.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/azure-app-yashas.dll
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/azure-app-yashas.deps.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/azure-app-yashas.runtimeconfig.json
+/Users/yashas/Desktop/azure-app-yashas/bin/Release/net8.0/publish/azure-app-yashas.pdb

@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/b18622b4-69d9-4576-8e7d-a890a4e94eb5/resourceGroups/cloud-shell-storage-southcentralus/providers/Microsoft.Web/sites/az-webapp-yashas-vscode-tools"
+}

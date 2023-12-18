@@ -1,0 +1,7 @@
+/Users/yashas/Desktop/azure-app-yashas/publish/azure-app-yashas
+/Users/yashas/Desktop/azure-app-yashas/publish/appsettings.Development.json
+/Users/yashas/Desktop/azure-app-yashas/publish/appsettings.json
+/Users/yashas/Desktop/azure-app-yashas/publish/azure-app-yashas.dll
+/Users/yashas/Desktop/azure-app-yashas/publish/azure-app-yashas.deps.json
+/Users/yashas/Desktop/azure-app-yashas/publish/azure-app-yashas.runtimeconfig.json
+/Users/yashas/Desktop/azure-app-yashas/publish/azure-app-yashas.pdb
