@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'az-webapp-yashas'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21F4FAD942174F298A1FAF8EA80A1C6A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BD164A66F7847BF82FBEFA2324D231E }}
           package: .
